@@ -1,5 +1,6 @@
 {
   "name": "memory-game-app",
+  "homepage":"/memory-game-app",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
