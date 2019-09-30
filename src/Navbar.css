@@ -1,9 +1,9 @@
-.Navbar{
-background-color: rgb(50,50,50);
-color: rgb(200,200,200);
-font-size: 20px;
-text-transform: uppercase;
-text-align: right;
-padding: 10px;
-padding-right: 40px;
+.Navbar {
+	background-color: rgb(50, 50, 50);
+	color: rgb(200, 200, 200);
+	font-size: 20px;
+	text-transform: uppercase;
+	text-align: right;
+	padding: 10px;
+	padding-right: 40px;
 }
